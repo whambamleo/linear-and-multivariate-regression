@@ -1,2 +1,2 @@
 # linear-and-multivariate-regression
-objective functions, regression models, gradient descent for optimization
+objective loss functions, regression models, gradient descent for optimization
